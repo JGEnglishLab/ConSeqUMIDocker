@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ConSeqUMIDocker"
+version = "1.0.0"
+description = "Bioinformatics software package for increasing the accuracy of nanopore sequencing data."
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+dependencies = [
+    "PyQt5 >= 5.15.2"
+]
+
+[project.scripts]
+conseqDocker = "ConSeqUMIDocker:gui.main"

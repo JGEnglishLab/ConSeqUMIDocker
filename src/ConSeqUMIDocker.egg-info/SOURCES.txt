@@ -1,0 +1,15 @@
+pyproject.toml
+src/ConSeqUMIDocker/BenchmarkTabWindow.py
+src/ConSeqUMIDocker/ConsensusTabWindow.py
+src/ConSeqUMIDocker/MainWindow.py
+src/ConSeqUMIDocker/TabWindow.py
+src/ConSeqUMIDocker/TableWindow.py
+src/ConSeqUMIDocker/UmiTabWindow.py
+src/ConSeqUMIDocker/__init__.py
+src/ConSeqUMIDocker/gui.py
+src/ConSeqUMIDocker.egg-info/PKG-INFO
+src/ConSeqUMIDocker.egg-info/SOURCES.txt
+src/ConSeqUMIDocker.egg-info/dependency_links.txt
+src/ConSeqUMIDocker.egg-info/entry_points.txt
+src/ConSeqUMIDocker.egg-info/requires.txt
+src/ConSeqUMIDocker.egg-info/top_level.txt
