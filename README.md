@@ -1,5 +1,12 @@
 # ConSeqUMIDocker
-ConSeqUMI is a helper program to run [ConSeqUMI](https://github.com/JGEnglishLab/ConSeqUMI) in a Docker container.
+The purpose of this program is to allow you to run the default version of [ConSeqUMI](https://github.com/JGEnglishLab/ConSeqUMI) without needing to install all the dependencies. 
 
-See this page's wiki for installation instructions.<br>
+Please see the [installation instructions](https://github.com/JGEnglishLab/ConSeqUMIDocker/wiki/Installation-Instructions) to get started.
+
+For those interested in running Lamassemble with a custom "last train" file, see [here]() for extra details.
 See the [ConSeqUMI wiki](https://github.com/JGEnglishLab/ConSeqUMI/wiki) for a more detailed explanation of the program.
+
+
+
+
+
